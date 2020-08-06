@@ -1,2 +1,4 @@
 # DES
-A new algorithm to encrypt data based on the obsolete DES algorithm for blocks of data
+The file chr.java is the proposed new algorithm that i've designed.
+
+The file des.java is the implementation of the old DES algorithm.
